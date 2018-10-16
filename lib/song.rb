@@ -18,6 +18,3 @@ class Song
 
 end
 
-binding.pry
-
-'Michael Jackson - Black or White - pop.mp3'
